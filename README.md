@@ -1,4 +1,6 @@
 # AddModifierTools
+**Currently add modifier list only supports mesh**
+
 Blender minimal version : 2.8
 
 # Main features:
